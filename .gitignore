@@ -1,7 +1,8 @@
 SBIR/
 html/
 grants/
-sample/
+sample
+samples
 
 # Created by https://www.gitignore.io/api/vim,code,macos,python,pycharm
 # Edit at https://www.gitignore.io/?templates=vim,code,macos,python,pycharm
